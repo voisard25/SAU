@@ -14,7 +14,7 @@ Contraseña:	admi123
 🌐 URL:
 Implementación en producción:
 La aplicación está desplegada y disponible en:
-https://sistemapasantia-sau-utn.vercel.app/
+
 
 Documentación del progreso(avance y detalles del proyecto):
 https://drive.google.com/drive/folders/1XiUrTXp6bZn2uX532_wu0UFv0qQRGJuN
