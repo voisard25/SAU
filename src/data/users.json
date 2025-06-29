@@ -1,0 +1,64 @@
+{
+  "admin": [
+    { "id": 1, "usuario": "admi", "password": "admi123" }
+  ],
+  "empresas": [
+    { "id": 1, "razonSocial": "TechnoCorp SA", "cuit": 30709999211, "password": "Empresa123" }
+  ],
+  "estudiantes": [
+    { 
+      "id": 1,
+      "nombre": "María Díaz",
+      "dni": "40256987",
+      "legajo": 87543,
+      "password": "40256987",
+      "carrera": "Ingeniería en Sistemas",
+      "anio_cursada": 3,
+      "promedio": 8.5,
+      "materias_aprobadas": [
+        "Algoritmos I",
+        "Matemática I",
+        "Física I"
+      ],
+      "materias_regularizadas": [
+        "Algoritmos II",
+        "Matemática II"
+      ],
+      "email": "maria.diaz@estudiantes.utn.edu.ar",
+      "disponibilidad_horaria": {
+        "turno": "mañana",
+        "horas_disponibles": 20
+      },
+      "habilidades_tecnicas": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "Python"
+      ],
+      "habilidades_blandas": [
+        "Trabajo en equipo",
+        "Comunicación efectiva",
+        "Resolución de problemas"
+      ],
+      "experiencia_previa": [
+        {
+          "empresa": "StartupTech",
+          "puesto": "Desarrollador Junior",
+          "periodo": "2022-2023"
+        }
+      ],
+      "idiomas": [
+        {
+          "idioma": "Inglés",
+          "nivel": "Intermedio"
+        },
+        {
+          "idioma": "Portugués",
+          "nivel": "Básico"
+        }
+      ],
+      "modalidad_preferida": "presencial",
+      "ubicacion": "Buenos Aires"
+    }
+  ]
+}
