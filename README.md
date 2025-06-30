@@ -1,3 +1,5 @@
+Documentación del progreso(avance y detalles del proyecto):
+https://drive.google.com/drive/folders/1XiUrTXp6bZn2uX532_wu0UFv0qQRGJuN
 # 📚 Sistema de Gestión de Pasantías 
 ## 🔐 Credenciales de acceso  
 
@@ -30,7 +32,5 @@ En Git Bash / Linux / macOS:
 export SENDGRID_API_KEY="api_key_aqui"
 export SENDGRID_FROM_EMAIL="pasantiasutnsau@gmail.com"
 
-Documentación del progreso(avance y detalles del proyecto):
-https://drive.google.com/drive/folders/1XiUrTXp6bZn2uX532_wu0UFv0qQRGJuN
 
- **Diseño de Sistemas de Informacion** – UTN San Francisco  
+ 
